@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="colorPrimary">#4A6CF7</color>
+    <color name="colorPrimaryDark">#3A5AD9</color>
+    <color name="colorAccent">#4A6CF7</color>
+    <color name="darkpink">#C2185B</color>
+    <color name="Navyblue">#1A237E</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="delete_icon_tint">#F44336</color>
+    <color name="product_placeholder_bg">#E3F2FD</color>
+    <color name="product_icon_tint">#1976D2</color>
+    <color name="ripple_color">#DDDDDD</color>
+    <color name="background_color">#F5F5F5</color>
+    <color name="primary_color">#1976D2</color>
+    <color name="accent_color">#FF4081</color>
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#757575</color>
+    <color name="icon_tint">#555555</color>
+</resources>

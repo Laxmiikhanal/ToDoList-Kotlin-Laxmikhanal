@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">To-DoApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment"></string>
+    <string name="edit_product">Edit TODO</string>
+    <string name="delete_product">Delete TODO</string>
+    <string name="update_product">Update TODO</string>
+    <string name="product_details">Title</string>
+    <string name="product_name">Title</string>
+    <string name="product_description">Description</string>
+    <string name="cancel">Cancel</string>
+</resources>
