@@ -20,7 +20,7 @@ class ProductAdapter(val context: Context,
         : RecyclerView.ViewHolder(itemView){
 
 
-        val editButton : TextView = itemView.findViewById(R.id.lblEdit)
+        val editButton : TextView = itemView.findViewById(R.id.btnEdit)
         val pName : TextView = itemView.findViewById(R.id.displayName)
 
         val pDesc : TextView = itemView.findViewById(R.id.displayDesc)

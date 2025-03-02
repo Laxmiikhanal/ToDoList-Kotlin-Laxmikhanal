@@ -59,7 +59,7 @@
                         android:id="@+id/profileImage"
                         android:layout_width="72dp"
                         android:layout_height="72dp"
-                        android:background="@color/background_color"
+                        android:background="@color/colorPrimary"
                         android:scaleType="centerCrop"
                         app:contentPadding="8dp"
                         app:srcCompat="@drawable/baseline_person_24"

@@ -13,7 +13,7 @@
     app:strokeWidth="0dp"
     android:clickable="true"
     android:focusable="true"
-    app:rippleColor="@color/background_color">
+    app:rippleColor="@color/colorPrimary">
 
     <androidx.constraintlayout.widget.ConstraintLayout
         android:layout_width="match_parent"
@@ -25,7 +25,6 @@
             android:id="@+id/productImage"
             android:layout_width="80dp"
             android:layout_height="80dp"
-            android:background="@color/background_color"
             android:scaleType="centerCrop"
             app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintStart_toStartOf="parent"
@@ -64,8 +63,6 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="4dp"
-                android:text="$99.99"
-                android:textColor="@color/price_color"
                 android:textSize="15sp" />
 
             <!-- Product Description -->
@@ -76,7 +73,7 @@
                 android:layout_marginTop="6dp"
                 android:ellipsize="end"
                 android:maxLines="2"
-                android:text="Product description that might be lengthy and need to be truncated after two lines..."
+                android:text="Description"
                 android:textColor="@color/text_secondary"
                 android:textSize="14sp" />
         </LinearLayout>

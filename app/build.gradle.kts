@@ -52,6 +52,8 @@ dependencies {
     implementation(libs.androidx.credentials)
     implementation(libs.androidx.credentials.play.services.auth)
     implementation(libs.googleid)
+    implementation(libs.firebase.firestore.ktx)
+    implementation(libs.firebase.storage.ktx)
     androidTestImplementation(libs.androidx.espresso.core)
 
     implementation("com.cloudinary:cloudinary-android:2.1.0")
